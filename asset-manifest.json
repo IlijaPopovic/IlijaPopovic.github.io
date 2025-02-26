@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mypage/static/css/main.943e1676.css",
-    "main.js": "/mypage/static/js/main.4c093ba0.js",
-    "static/js/453.01c969ee.chunk.js": "/mypage/static/js/453.01c969ee.chunk.js",
-    "static/media/me2.png": "/mypage/static/media/me2.f7c7322756c4ddff9151.png",
-    "static/media/VTS_logo2.png": "/mypage/static/media/VTS_logo2.6573cee218da3b71b9fe.png",
-    "static/media/cofa32.png": "/mypage/static/media/cofa32.f703abd50218c2d34703.png",
-    "index.html": "/mypage/index.html",
-    "main.943e1676.css.map": "/mypage/static/css/main.943e1676.css.map",
-    "main.4c093ba0.js.map": "/mypage/static/js/main.4c093ba0.js.map",
-    "453.01c969ee.chunk.js.map": "/mypage/static/js/453.01c969ee.chunk.js.map"
+    "main.css": "/static/css/main.943e1676.css",
+    "main.js": "/static/js/main.726336f6.js",
+    "static/js/453.01c969ee.chunk.js": "/static/js/453.01c969ee.chunk.js",
+    "static/media/me2.png": "/static/media/me2.f7c7322756c4ddff9151.png",
+    "static/media/VTS_logo2.png": "/static/media/VTS_logo2.6573cee218da3b71b9fe.png",
+    "static/media/cofa32.png": "/static/media/cofa32.f703abd50218c2d34703.png",
+    "index.html": "/index.html",
+    "main.943e1676.css.map": "/static/css/main.943e1676.css.map",
+    "main.726336f6.js.map": "/static/js/main.726336f6.js.map",
+    "453.01c969ee.chunk.js.map": "/static/js/453.01c969ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.943e1676.css",
-    "static/js/main.4c093ba0.js"
+    "static/js/main.726336f6.js"
   ]
 }
